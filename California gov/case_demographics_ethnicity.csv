@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 race_ethnicity,cases,case_percentage,deaths,death_percentage,percent_ca_population,date
 Latino,5276,35.99,170,28.38,38.9,4/13/2020
 Latino,5910,37.18,203,29.72,38.9,4/14/2020
@@ -2544,7 +2543,7 @@ Multi-Race,40752,1.5,626,1.3,2.2,2/24/2021
 American Indian or Alaska Native,8770,0.3,167,0.3,0.5,2/24/2021
 Native Hawaiian and other Pacific Islander,15097,0.6,302,0.6,0.3,2/24/2021
 Other,306466,11.5,1084,2.2,0,2/24/2021
-=======
+=======,,,,,,
 race_ethnicity,cases,case_percentage,deaths,death_percentage,percent_ca_population,date
 Latino,5276,35.99,170,28.38,38.9,4/13/2020
 Latino,5910,37.18,203,29.72,38.9,4/14/2020
@@ -5090,4 +5089,4 @@ Multi-Race,40752,1.5,626,1.3,2.2,2/24/2021
 American Indian or Alaska Native,8770,0.3,167,0.3,0.5,2/24/2021
 Native Hawaiian and other Pacific Islander,15097,0.6,302,0.6,0.3,2/24/2021
 Other,306466,11.5,1084,2.2,0,2/24/2021
->>>>>>> e803abca8ad3094f0700bcf3636bd9417aa87c4f
+>>>>>>> e803abca8ad3094f0700bcf3636bd9417aa87c4f,,,,,,

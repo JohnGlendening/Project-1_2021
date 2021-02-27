@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 county,totalcountconfirmed,totalcountdeaths,newcountconfirmed,newcountdeaths,date
 Santa Clara,151,6,151,6,3/18/2020
 Santa Clara,183,8,32,2,3/19/2020
@@ -20585,7 +20584,7 @@ Yolo,12670,181,31,0,2/21/2021
 Yolo,12689,181,19,0,2/22/2021
 Yolo,12729,185,40,4,2/23/2021
 Yolo,12760,185,31,0,2/24/2021
-=======
+=======,,,,,
 county,totalcountconfirmed,totalcountdeaths,newcountconfirmed,newcountdeaths,date
 Santa Clara,151,6,151,6,3/18/2020
 Santa Clara,183,8,32,2,3/19/2020
@@ -41172,4 +41171,4 @@ Yolo,12670,181,31,0,2/21/2021
 Yolo,12689,181,19,0,2/22/2021
 Yolo,12729,185,40,4,2/23/2021
 Yolo,12760,185,31,0,2/24/2021
->>>>>>> e803abca8ad3094f0700bcf3636bd9417aa87c4f
+>>>>>>> e803abca8ad3094f0700bcf3636bd9417aa87c4f,,,,,
